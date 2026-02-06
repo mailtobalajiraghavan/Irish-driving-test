@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251517436194",
+    "project_id": "irish-driving-test-app-v1",
+    "storage_bucket": "irish-driving-test-app-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251517436194:android:f1a6e90ebee897dbff257b",
+        "android_client_info": {
+          "package_name": "com.antigravity.irishdrivingtest.irish_driving_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1pHd0Ek_TWoynzck4Xdiaae1TM57Pp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
